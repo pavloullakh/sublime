@@ -1,7 +1,7 @@
 body {
     background-color: black;
     margin: 0;
-    background: url(/images/maket-sajta-dlya-igrovogo-proekta_01.jpg);
+    background: url(images/maket-sajta-dlya-igrovogo-proekta_01.jpg);
 }
 
 a {
@@ -399,7 +399,7 @@ ul {
 /*=========PURPLE=========*/
 
 .purple {
-    background: url(/images/purple-cover_03.jpg);
+    background: url(images/purple-cover_03.jpg);
     display: flex;
 }
 
