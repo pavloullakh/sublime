@@ -875,7 +875,7 @@ hr-contacts {
 /*===========FOOTER======*/
 
 .footer {
-    background: url(images/footer_bg_03.jpg);
+    background: url("https://raw.githubusercontent.com/pavloullakh/sublime/main/images/footer_bg_03.jpg");
     display: flex;
     padding-top: 70px;
 }
